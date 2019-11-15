@@ -1,0 +1,6 @@
+framework module YFNetworking {
+  umbrella header "YFNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

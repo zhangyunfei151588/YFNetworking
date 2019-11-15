@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-YFNet/Pods-YFNet-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/YFNetworking/YFNetworking.framework
